@@ -1,4 +1,4 @@
-<h3 style="filter: drop-shadow(0px 4px 4px rgba(236, 236, 236, 0.40));">
+<h3>
   Olá a todos os visitantes do meu GitHub, sou o Matheus Carrozzino. Amo tecnologia e sou um desenvolvedor de software em formação pela CubosAcademy
   </h3> 
 <div> 
