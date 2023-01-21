@@ -1,7 +1,7 @@
 ### Oi, eu sou o Matheus
 
 - 🧡 Desenvolvedor e amor da Mari
-- 🌱 Eu estou aprendendo HTML, CSS, Javascript, React, NodeJs, MongoDB, SQL
+- 🌱 Eu estou aprendendo HTML, CSS, Javascript, Typescript, React, Next.js, NodeJs, MongoDB, SQL
 
 
 
