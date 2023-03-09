@@ -1,7 +1,6 @@
 ### Oi, eu sou o Matheus
 
-- 🧡 Desenvolvedor e amor da Mari
-- 🌱 Eu estou aprendendo HTML, CSS, Javascript, Typescript, React, Next.js, NodeJs, MongoDB, SQL
+ Desenvolvedor Fullstack em formação | HTML | CSS | Typescript | Javascript | Next.js | React | Node.js | Git
 
 
 
