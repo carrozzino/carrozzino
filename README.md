@@ -1,6 +1,6 @@
 ### Oi, eu sou o Matheus
 
- Desenvolvedor Fullstack em formação | HTML | CSS | Typescript | Javascript | Next.js | React | Node.js | Git
+ Desenvolvedor Fullstack em formação | HTML | CSS | Typescript | Javascript | JSON | API |  React | Node.js | Git
 
 
 
